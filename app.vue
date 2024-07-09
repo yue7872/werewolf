@@ -4,6 +4,7 @@ import { appName } from '~/constants'
 useHead({
   title: appName,
 })
+initGame()
 </script>
 
 <template>
